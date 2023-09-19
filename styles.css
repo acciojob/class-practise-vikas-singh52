@@ -1,6 +1,6 @@
 /*  your css code here. If applicable */
-p.p1{
-	color:#00f;
+.p1{
+	font-color:#00f;
 	background-color:#eee;
 	font-family:arial;
 	font-size:20px;
